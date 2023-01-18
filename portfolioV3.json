@@ -1,0 +1,171 @@
+[
+    {
+      "id": "1",
+      "name": "TM Tool",
+      "image": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762322/MyProjects/TM%20Tool/others-notification_nhzi8l.png",
+      "live": "https://game-of-rl.web.app/",
+      "description": "'TM Tool' is a web app for managing teams and teamwork. This is a team project built by the team 'Game Of RL'",
+      "git": {
+        "client": "https://github.com/game-of-rl-II/task-management-client",
+        "server": "https://github.com/game-of-rl-II/task-management-server"
+      },
+      "youtube": "",
+      "tools": "The site was built with HTML, CSS, JavaScript, Daisy UI, and React. Firebase authentication is used for authentication purposes. Apart from that, We used some external packages like- React-Redux, React-hot-toast, React-St-Modal, etc for a better user experience.",
+      "credentials": "To sign up as an admin (Or a team manager) use 'phero@phero.com' as your email and password. You can create an account by yourself as well. To log in as a team member use these: Id: 6703262  password: 6703262#",
+      "features": [
+        {
+          "title": "Create a team",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762321/MyProjects/TM%20Tool/assign-task_koblhv.png",
+          "des": "After logging in as an admin you will see an option for creating a team. Here you can create one or multiple teams to distribute your planned work."
+        },
+  
+        {
+          "title": "Add a member",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762322/MyProjects/TM%20Tool/add-member_ya0ye1.png",
+          "des": "You can create a profile for your teammate. The team member will get his Login Id and password via email automatically."
+        },
+        {
+          "title": "Assign tasks to a member",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762321/MyProjects/TM%20Tool/assign-task_koblhv.png",
+          "des": "There is a field in the 'manage member page', wherein you can see an option for assigning tasks to your teammates. You can add the task details and set a deadline as well."
+        },
+        {
+          "title": "Add review for a member",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762321/MyProjects/TM%20Tool/add-review_u0tppv.png",
+          "des": "You will be able to give feedback about your teammates too. The stars will be visible on his profile."
+        },
+        {
+          "title": "Member login",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673764793/MyProjects/TM%20Tool/member-login_plxlsl.png",
+          "des": "The member (your teammates) will log in to his account using the ID and the password which were provided to him via email. "
+        },
+        {
+          "title": "Assigned tasks to a member",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762321/MyProjects/TM%20Tool/assignedtasks_jc3cpv.png",
+          "des": "The member will see all the assigned tasks on the 'Assigned Tasks' page. He can update the task or forward it back to the admin (team lead)."
+        },
+        {
+          "title": "Notifications",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673762322/MyProjects/TM%20Tool/others-notification_nhzi8l.png",
+          "des": "There will be notifications for the admin when a member of his team updates his task as well as for the members when the admin assigns a new task for them."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Cure Tools",
+      "image": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673621012/MyProjects/Cure%20Tools/Cure-Tools_bqcz0m.png",
+      "live": "https://cure-tools.web.app/",
+      "description": "'Cure Tools' is a website for a wholesaler company that produces medical tools for dentists.",
+      "git": {
+        "client": "https://github.com/faridulhaque/cure-tools-client",
+        "server": "https://github.com/faridulhaque/cure-tools-server"
+      },
+      "youtube": "",
+      "tools": "'Cure tools' was built in React. Daisy UI is used for the user interface, Stripe is used for the payment method and Firebase was used for authentication. The server side was built with NodeJs.",
+      "credentials": "The website has two sides: an admin dashboard and a user dashboard. To visit the site as an admin, input 'human@being.com' in the email and password fields. To view the site as a general user please use Google login.",
+      "features": [
+        {
+          "title": "Updatable user profile",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673770331/MyProjects/Cure%20Tools/user-profile_nfsc5v.png",
+          "des": "Both admin and user have a profile that includes their name, picture, phone no, and address. They can update the information anytime."
+        },
+        {
+          "title": "Add product (Admin)",
+  
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673770331/MyProjects/Cure%20Tools/add-product_ltksaw.png",
+          "des": "The admin will be able to add products and the added products will be visible on the homepage."
+        },
+        {
+          "title": "Manage users (Admin)",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673770331/MyProjects/Cure%20Tools/manage-users_vuishf.png",
+          "des": "The admin can make an admin from the members and also can remove any of them except the supreme one."
+        },
+        {
+          "title": "Manage orders (Admin)",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673621012/MyProjects/Cure%20Tools/Cure-Tools_bqcz0m.png",
+          "des": "The admin can confirm the shipment when the bills are paid. Also, he has the right to cancel the orders if the payment is not done. "
+        },
+        {
+          "title": "Add Review (Member)",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673770591/MyProjects/Cure%20Tools/add-review_y5f4jo.png",
+          "des": "The user can make a review about the services of the company. Later, he can update the review. "
+        },
+        {
+          "title": "Make order (Member)",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673621012/MyProjects/Cure%20Tools/Cure-Tools_bqcz0m.png",
+          "des": "The user can place an order and later he can manage the orders. (He can pay for his items or can cancel the order)"
+        }
+      ]
+    },
+  
+    {
+      "id": "3",
+      "name": "My Todo",
+      "image": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673776180/MyProjects/My%20To-Do/My-todo-home_ujkynz.png",
+      "live": "https://ph-todo.web.app/",
+      "description": "'My to-do' is a simple app to enlist your upcoming tasks.",
+      "git": {
+        "client": "https://github.com/faridulhaque/todo-app-client",
+        "server": "https://github.com/faridulhaque/todo-server"
+      },
+      "youtube": "https://youtu.be/jU1VMVJM2H4",
+      "tools": "The interface, functionalities, and authentication were implemented respectively by Daisy UI, React, and Firebase.",
+      "credentials": "Use Google login to sign in to the app.",
+      "features": [
+        {
+          "title": "Enlist a task",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673776180/MyProjects/My%20To-Do/add-new-task_uomlzj.png",
+          "des": "The user can enlist his tasks here."
+        },
+        {
+          "title": "Today's tasks",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673776180/MyProjects/My%20To-Do/My-todo-home_ujkynz.png",
+          "des": "The user will see today's task here. The task will be moved to the 'Completed folder ' when the 'Complete button' is clicked."
+        },
+        {
+          "title": "All tasks",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673776180/MyProjects/My%20To-Do/waiting_-tasks_mkpwb6.png",
+          "des": "The user will see all his enlisted tasks on the 'All tasks page.'"
+        },
+        {
+          "title": "Completed tasks",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673776180/MyProjects/My%20To-Do/completed_eyegma.png",
+          "des": "The 'Completed' page will contain all the previous tasks done by the user."
+        }
+      ]
+    },
+  
+    {
+      "id": "4",
+      "name": "Fresh Fruit",
+      "image": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673620981/MyProjects/Fresh%20Fruit/fresh-fruit_bl9mei.png",
+      "live": "https://fresh-fruit-new.web.app/",
+      "description": "'Fresh Fruit' is a website for a wholesaler group that imports fruits and collects from locals and sell them to retailers. The website is usable for only moderators.",
+      "git": {
+        "client": "https://github.com/faridulhaque/fresh-fruit-new-client",
+        "server": "https://github.com/faridulhaque/fresh-fruit-new-server"
+      },
+      "youtube": "",
+      "tools": "Daisy UI and React were used to build the front end and the backend is built using NodeJs.",
+      "credentials": "Use Google log in to check the website",
+      "features": [
+        {
+          "title": "Items",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673778031/MyProjects/Fresh%20Fruit/Fresh-Fruit-items_fkxicj.png",
+          "des": "On the homepage, a few items will be visible to the users with full details. "
+        },
+        {
+          "title": "Add item",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673778030/MyProjects/Fresh%20Fruit/Fresh-Fruit-add-item_ypoykp.png",
+          "des": "The admin will add the items' information on the 'Add new item' form."
+        },
+        {
+          "title": "Update item",
+          "img": "https://res.cloudinary.com/dfmdacf6w/image/upload/v1673778222/MyProjects/Fresh%20Fruit/Fresh-Fruit-my-items_b01kuz.png",
+          "des": "On the 'My items' page, the admin will see an 'Edit button'. By clicking on it he can open a modal wherein he can update the quantity of the item."
+        }
+      ]
+    }
+  ]
+  
