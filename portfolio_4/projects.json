@@ -1,0 +1,79 @@
+[
+    {
+      "title": "coffee shop",
+      "img": "https://res.cloudinary.com/dr2vztyib/image/upload/v1680031783/top-view-cup-coffee-with-pine-cones-bucket-with-coffee-beans-falling-out-glass-jar-wooden-surface_k6z3cx.jpg",
+      "description": "A static website for a Coffee Shop that features multiple sections with various animations and a language switch feature.",
+      "details":"This coffee shop website is a static website consisting of multiple sections. It includes a language switching feature between English and Arabic, along with animated elements to enhance user experience.",
+      "git": {
+        "client": "https://github.com/NujumIt/the-coffee-client",
+        "server": ""
+      },
+      "live": "https://the-coffee-client.vercel.app/"
+    },
+    {
+      "title": "home provider",
+      "img": "https://res.cloudinary.com/dr2vztyib/image/upload/v1680510922/home-provider/09-554x360-c-center_drltpn.jpg",
+      "description":"A frontend design for a real estate company catering specifically to Arabic-speaking users.",
+      "details": "This real estate website caters to Arabic users and features a visually appealing design with a diverse range of sections. It provides a seamless browsing experience, showcasing properties and relevant information in an attractive manner.",
+      "git": {
+        "client": "https://github.com/NujumIt/home-provider-client",
+        "server": ""
+      },
+      "live": "https://jocular-muffin-7b008a.netlify.app/"
+    },
+    {
+      "title": "tm tool",
+      "img": "https://res.cloudinary.com/dr2vztyib/image/upload/v1685502531/pp/tm-tool_sihlv5.jpg",
+      "description":"A task management system designed for efficient collaboration within a team.",
+      "details": "The task management website enables administrators to create groups, add members, and assign tasks to them. It provides a centralized platform for efficient task distribution and collaboration, enhancing productivity and organization within teams.",
+      "git": {
+        "client": "https://github.com/game-of-rl-II/task-management-client",
+        "server": "https://github.com/game-of-rl-II/task-management-server"
+      },
+      "live": "https://game-of-rl.web.app/",
+      "credentials": {
+        "email": "112233",
+        "password": "112233",
+        "info": "To access the member login, please use the provided credentials. If you wish to view the platform as an admin, please create an account or log in via Google."
+      }
+    },
+    
+    {"title": "cure tools",
+      "img": "https://i.ibb.co/VxvZH7F/banner.png",
+      "description":"Dynamic website for a dental tool manufacturing company with admin and user sides.",
+      "details": "That is a manufacturing company's website specializes in providing surgical tools for dentists. It features two sides: an admin side for managing operations and a customer side for purchasing products. Customers can conveniently browse, select, and make payments for their desired tools directly through the website.",
+      "git": {
+        "client": "https://github.com/faridulhaque/cure-tools-client",
+        "server": "https://github.com/faridulhaque/cure-tools-server"
+      },
+      "live": "https://cure-tools.web.app/",
+      "credentials": {
+        "email": "human@being.com",
+        "password": "human@being.com",
+        "info": "To access the admin login, please use the provided credentials. If you wish to view the platform as a customer, please create an account or log in via Google."
+      }
+    },
+    {
+      "title":"my todo",
+      "img": "https://i.ibb.co/X4GfPsW/man-todo.png",
+      "description":"A to-do app that allows users to schedule and manage their upcoming tasks.",
+      "details":"The to-do app allows users to schedule tasks, update them, and reschedule as needed. It provides a convenient platform for managing and organizing tasks, ensuring users stay on top of their responsibilities and can easily adapt to changes in their schedules.",
+      "git": {
+        "client": "https://github.com/faridulhaque/todo-app-client",
+        "server": "https://github.com/faridulhaque/todo-app-server"
+      },
+      "live": "https://ph-todo.web.app/"
+    },
+    {
+      "title": "simple calculator",
+      "img": "https://res.cloudinary.com/dr2vztyib/image/upload/v1685501094/pp/mediamodifier-I3HPUolh5hA-unsplash_fdci8z.jpg",
+      "description":"A simple calculator built using jQuery.",
+      "details": "It is a simple calculator, built using jQuery, performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface for inputting numbers and obtaining accurate results for calculations.",
+      "git": {
+        "client": "https://github.com/faridulhaque/Calculator-Jquery",
+        "server": ""
+      },
+      "live": "https://faridulhaque.github.io/Calculator-Jquery/"
+    }
+  ]
+  
