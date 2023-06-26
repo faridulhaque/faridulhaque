@@ -43,13 +43,13 @@
       "description":"Dynamic website for a dental tool manufacturing company with admin and user sides.",
       "details": "That is a manufacturing company's website specializes in providing surgical tools for dentists. It features two sides: an admin side for managing operations and a customer side for purchasing products. Customers can conveniently browse, select, and make payments for their desired tools directly through the website.",
       "git": {
-        "client": "https://github.com/faridulhaque/cure-tools-client",
+        "client": "https://github.com/faridulhaque/cure-tools-nextjs",
         "server": "https://github.com/faridulhaque/cure-tools-server"
       },
-      "live": "https://cure-tools.web.app/",
+      "live": "https://cure-tools-nextjs.vercel.app/",
       "credentials": {
-        "email": "human@being.com",
-        "password": "human@being.com",
+        "email": "guestuser@gmail.com",
+        "password": "guestuser@gmail.com",
         "info": "To access the admin login, please use the provided credentials. If you wish to view the platform as a customer, please create an account or log in via Google."
       }
     },
