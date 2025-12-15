@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Faridul Haque Murshed</h1>
-<h3 align="center">An ambitious frontend developer from Bangladesh.</h3>
+<h3 align="center">An ambitious full-stack developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="faridulhaque" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 To see my best projects visit [My Portfolio](https://my-portfolio-v4.vercel.app/)
+- 👨‍💻 To see my best projects visit [My Portfolio](https://faridmurshed.dev/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, NextJs, NestJs, TypeORM**
 
 - 📫 How to reach me **faridmurshed9@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-bthqAebHpjzohRY3lvn2ZBFuTFWOhjo/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1I6Cu5XeeP8VnaUd9KpYT_Ki5oN68Nm8z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
