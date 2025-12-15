@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **faridmurshed9@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1I6Cu5XeeP8VnaUd9KpYT_Ki5oN68Nm8z/view?usp=sharing)
+- 📄 Download my resume [here](https://drive.google.com/file/d/1I6Cu5XeeP8VnaUd9KpYT_Ki5oN68Nm8z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
